@@ -50,7 +50,7 @@ function App() {
 									as="button"
 									w={"50px"}
 									rounded={"10px"}
-									bg={theme.colors.primary[900]}
+									bg={theme.colors.primary[500]}
 									border={"1px solid black"}
 								></Box>
 							</PopoverTrigger>
@@ -113,7 +113,7 @@ function App() {
 									as="button"
 									w={"50px"}
 									rounded={"10px"}
-									bg={theme.colors.secondary[900]}
+									bg={theme.colors.secondary[500]}
 									border={"1px solid black"}
 								></Box>
 							</PopoverTrigger>
@@ -176,7 +176,7 @@ function App() {
 									as="button"
 									w={"50px"}
 									rounded={"10px"}
-									bg={theme.colors.success[900]}
+									bg={theme.colors.success[500]}
 									border={"1px solid black"}
 								></Box>
 							</PopoverTrigger>
@@ -239,7 +239,7 @@ function App() {
 									as="button"
 									w={"50px"}
 									rounded={"10px"}
-									bg={theme.colors.error[900]}
+									bg={theme.colors.error[500]}
 									border={"1px solid black"}
 								></Box>
 							</PopoverTrigger>
